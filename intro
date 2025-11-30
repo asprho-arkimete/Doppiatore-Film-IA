@@ -1,1 +1,10 @@
 Traduci ogni tuo film preferito in tutte le lingue sfruttando la tecnologia di chartterbox:
+Istallazione :
+clona: git clone: https://github.com/asprho-arkimete/Doppiatore-Film-IA.git
+crea ambiente virtuale : conda create -yn chatterbox python=3.11 #Molto importante usare python 3.11, con conda, non python-m venv, altrimenti non funziona ; gia provato di persona.
+Attiva ambiante virtuale Conda: conda activate chatterbox
+installa in conda: pip install chatterbox-tts
+entra nella dir cd chatterbox
+istalla tutto il pacchetto chatterbox: pip install -e .
+# se vuoi dai un occhiata al progetto Chatterbox per approfondimanto: https://github.com/resemble-ai/chatterbox
+
