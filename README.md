@@ -97,9 +97,10 @@ Il sistema unirà le clip doppiate al video originale ad alta risoluzione (scari
 ✨ Esempio di un Film Doppiato
 Ecco un esempio del risultato finale:
 
-Film Doppiato: "[link]" (Il video di esempio è in fase di caricamento su YouTube e sarà disponibile a breve.)
+Film Doppiato: "https://www.youtube.com/watch?v=ncscIeLjGSE"
 
 
 Posso fare altro per aiutarti con la documentazione o il codice del progetto?
+
 
 
